@@ -1,5 +1,4 @@
 node_modules/
-.env
+.envsda
 node_modules
-package-lock.json
-/uploads
+package-locks.json
