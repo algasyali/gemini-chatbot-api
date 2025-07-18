@@ -1,4 +1,4 @@
 node_modules/
 .envsda
 node_modules
-package-locks.json
+package-lock.json
